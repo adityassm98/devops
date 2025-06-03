@@ -3,4 +3,4 @@ num_2=int(input("enter number"))
 sum=num_1+num_2
 print(sum)
 
-akash bhadwa
+akash 
